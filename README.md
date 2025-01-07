@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner](https://i.pinimg.com/736x/6c/8b/05/6c8b05febc98a8d1c55f51fefcd466d4.jpg)
+![Aditya Vikram Singh Banner](https://i.pinimg.com/736x/20/0a/07/200a072465dc3c288a1d5780105705f7.jpg)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
 
