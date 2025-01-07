@@ -2,7 +2,7 @@
 
 <!-- ## 👋 &nbsp;Hola soy Esteban González -->
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hi, I'm Esteban Gonzalez.</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
