@@ -13,8 +13,8 @@
 Web scraping on the price of the dollar in Venezuela (parallel and BCV).
 Automation of financial administrative tasks.
 Professional password manager.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
+💬 &nbsp;Please feel free to contact me for questions or information about work..\
+✉️ &nbsp;You can shoot me an email at estebandavid17.10.2005@gmail.com! I'll try to respond as soon as I can.\
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
