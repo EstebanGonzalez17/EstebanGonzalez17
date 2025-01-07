@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hi, I'm Esteban González.</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hi, I'm Esteban González👋.</h2>
 
 ![Aditya Vikram Singh Banner](https://i.pinimg.com/736x/20/0a/07/200a072465dc3c288a1d5780105705f7.jpg)
 
