@@ -1,10 +1,10 @@
 ![Aditya Vikram Singh Banner](https://i.pinimg.com/736x/20/0a/07/200a072465dc3c288a1d5780105705f7.jpg)
 
+### 👨🏻‍💻 &nbsp;About Me
+
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
-
-### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
