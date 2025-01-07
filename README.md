@@ -6,7 +6,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I am passionate about solving complex problems through scripts and automation in Python. I'm always exploring new ways to optimize workflows and develop custom solutions.\\
+💡 &nbsp;I am passionate about solving complex problems through scripts and automation in Python. I'm always exploring new ways to optimize workflows and develop custom solutions.\
 🐍 &nbsp;Specialties: Automation, efficient web scraping and development of tools for repetitive tasks or data analysis..\
 🌱 &nbsp;Constantly learning: Currently, I delve into topics such as Artificial Intelligence, data processing in Python and the integration of APIs for dynamic projects..\
 ✍️ &nbsp;Recent projects:
